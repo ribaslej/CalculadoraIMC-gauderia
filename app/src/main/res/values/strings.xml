@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="titleTXT">Vamos calcular seu IMC</string>
+    <string name="value_1"><![CDATA[< 18.5]]></string>
+    <string name="value_2">18.5 a 24.9</string>
+    <string name="value_3">25.0 a 29.9</string>
+    <string name="value_4">30 a 34.9</string>
+    <string name="value_5">35.0 a 39.9</string>
+    <string name="value_6"><![CDATA[> 40]]></string>
+    <string name="value_imc">IMC</string>
+    <string name="class_imc">CLASSE</string>
+    <string name="class_1">ESGUALEPADO</string>
+    <string name="class_2">BEM NUTRIDO</string>
+    <string name="class_3">PARRUDO</string>
+    <string name="class_4">GORDAXO</string>
+    <string name="class_5">BEM PASSADO</string>
+    <string name="class_6">VIXE MARIA</string>
+</resources>
